@@ -44,8 +44,6 @@ This package has the following dependencies:
 
 ### Development Version
 
-> [![][developstatus]][developstatus_] [![][developcover]][developcover_] [![][ghsince]][ghsince_] [![][ghissues]][ghissues_] [![][ghfork]][ghfork_]
-
 Development takes place on [GitHub][github] in the [pyoomush][repo] project. Issue tracking, documentation, and downloads are provided there.
 
 Installing the current development version requires [Git][git]), a distributed source code management system. If you have Git you can run the following to download and *link* the development version into your Python runtime:
